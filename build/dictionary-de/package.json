@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "dictionary-de@2.0.3",
+      "/codimd"
+    ]
+  ],
+  "_development": true,
+  "_from": "dictionary-de@2.0.3",
+  "_id": "dictionary-de@2.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-fbNcCIjDrdNvu7DzMzkOY77vIaGqiDQqf9vtwGud1fcSxVWwX6EdtHcosmgG7AA10u3QgDVkymMaX9mr3elwRw==",
+  "_location": "/dictionary-de",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "dictionary-de@2.0.3",
+    "name": "dictionary-de",
+    "escapedName": "dictionary-de",
+    "rawSpec": "2.0.3",
+    "saveSpec": null,
+    "fetchSpec": "2.0.3"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dictionary-de/-/dictionary-de-2.0.3.tgz",
+  "_spec": "2.0.3",
+  "_where": "/codimd",
+  "author": {
+    "name": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com"
+  },
+  "bugs": {
+    "url": "https://github.com/wooorm/dictionaries/issues"
+  },
+  "contributors": [
+    {
+      "name": "Titus Wormer",
+      "email": "tituswormer@gmail.com",
+      "url": "https://wooorm.com"
+    },
+    {
+      "name": "Thomas Beverley",
+      "email": "tom.beverley101@gmail.com"
+    }
+  ],
+  "description": "German spelling dictionary in UTF-8",
+  "files": [
+    "index.js",
+    "index.aff",
+    "index.dic"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/wooorm"
+  },
+  "keywords": [
+    "spelling",
+    "myspell",
+    "hunspell",
+    "dictionary",
+    "de",
+    "german"
+  ],
+  "license": "(GPL-2.0 OR GPL-3.0)",
+  "name": "dictionary-de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wooorm/dictionaries/tree/master/dictionaries/de"
+  },
+  "version": "2.0.3"
+}
