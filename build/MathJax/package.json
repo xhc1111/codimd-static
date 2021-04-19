@@ -2,7 +2,7 @@
   "_args": [
     [
       "mathjax@2.7.5",
-      "/codimd"
+      "/home/hackmd/app"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/mathjax/-/mathjax-2.7.5.tgz",
   "_spec": "2.7.5",
-  "_where": "/codimd",
+  "_where": "/home/hackmd/app",
   "bugs": {
     "url": "http://github.com/mathjax/MathJax/issues"
   },
